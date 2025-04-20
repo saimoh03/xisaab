@@ -1,0 +1,7 @@
+door num1 = 5
+door num2 = 10
+
+door sum = num 1 + num2
+
+// waxay qoreysaa 15 oo ah wadarta labada number ee num1 iyo num2
+qor(sum)
